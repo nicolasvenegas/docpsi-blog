@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "docpsi blog",
+    "description": "",
+    "home_page_url": "https://nicolasvenegas.github.io/docpsi-blog",
+    "feed_url": "https://nicolasvenegas.github.io/docpsi-blog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Universidad de La Frontera"
+    },
+    "items": [
+    ]
+}
