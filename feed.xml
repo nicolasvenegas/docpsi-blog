@@ -3,24 +3,24 @@
     <title>docpsi blog</title>
     <link href="https://nicolasvenegas.github.io/docpsi-blog/feed.xml" rel="self" />
     <link href="https://nicolasvenegas.github.io/docpsi-blog" />
-    <updated>2025-06-30T09:31:16-04:00</updated>
+    <updated>2025-06-30T09:40:16-04:00</updated>
     <author>
         <name>Universidad de La Frontera</name>
     </author>
     <id>https://nicolasvenegas.github.io/docpsi-blog</id>
 
     <entry>
-        <title>Entrada 1</title>
+        <title>Test Post</title>
         <author>
             <name>Universidad de La Frontera</name>
         </author>
-        <link href="https://nicolasvenegas.github.io/docpsi-blog/entrada-1.html"/>
-        <id>https://nicolasvenegas.github.io/docpsi-blog/entrada-1.html</id>
+        <link href="https://nicolasvenegas.github.io/docpsi-blog/test-post.html"/>
+        <id>https://nicolasvenegas.github.io/docpsi-blog/test-post.html</id>
 
-        <updated>2025-06-30T09:31:16-04:00</updated>
+        <updated>2025-06-30T09:40:16-04:00</updated>
             <summary>
                 <![CDATA[
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pharetra turpis quis convallis blandit. Duis mattis lectus ac enim ullamcorper, quis elementum mauris vestibulum. Nam ac cursus orci. Ut eu gravida purus, vitae finibus leo. Donec nisi dui, efficitur ac nisi tempus, maximus scelerisque purus.
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pharetra turpis quis convallis blandit. Duis mattis lectus ac enim ullamcorper,&hellip;
                 ]]>
             </summary>
         <content type="html">
