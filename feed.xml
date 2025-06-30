@@ -3,7 +3,7 @@
     <title>DocPsi blog</title>
     <link href="https://nicolasvenegas.github.io/docpsi-blog/feed.xml" rel="self" />
     <link href="https://nicolasvenegas.github.io/docpsi-blog" />
-    <updated>2025-06-30T09:47:33-04:00</updated>
+    <updated>2025-06-30T10:25:22-04:00</updated>
     <author>
         <name>DocPsi UFRO</name>
     </author>
@@ -17,6 +17,7 @@
         <link href="https://nicolasvenegas.github.io/docpsi-blog/test-post.html"/>
         <id>https://nicolasvenegas.github.io/docpsi-blog/test-post.html</id>
         <media:content url="https://nicolasvenegas.github.io/docpsi-blog/media/posts/3/anomium-3_217cb738_230613110339_2000x2165.jpg" medium="image" />
+            <category term="etiqueta1"/>
 
         <updated>2025-06-30T09:40:16-04:00</updated>
             <summary>
