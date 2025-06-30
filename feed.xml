@@ -3,10 +3,57 @@
     <title>docpsi blog</title>
     <link href="https://nicolasvenegas.github.io/docpsi-blog/feed.xml" rel="self" />
     <link href="https://nicolasvenegas.github.io/docpsi-blog" />
-    <updated>1969-12-31T21:00:00-03:00</updated>
+    <updated>2025-06-30T09:31:16-04:00</updated>
     <author>
         <name>Universidad de La Frontera</name>
     </author>
     <id>https://nicolasvenegas.github.io/docpsi-blog</id>
 
+    <entry>
+        <title>Entrada 1</title>
+        <author>
+            <name>Universidad de La Frontera</name>
+        </author>
+        <link href="https://nicolasvenegas.github.io/docpsi-blog/entrada-1.html"/>
+        <id>https://nicolasvenegas.github.io/docpsi-blog/entrada-1.html</id>
+
+        <updated>2025-06-30T09:31:16-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pharetra turpis quis convallis blandit. Duis mattis lectus ac enim ullamcorper, quis elementum mauris vestibulum. Nam ac cursus orci. Ut eu gravida purus, vitae finibus leo. Donec nisi dui, efficitur ac nisi tempus, maximus scelerisque purus.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div id="bannerL">
+<div id="lipsumcom_left_siderail" align="center" data-freestar-ad="__300x600" data-google-query-id="CMK9_5igmY4DFRxU3QIdV64K6g">
+<div id="_fs-ad-iframe-container"><div class="post__iframe"><iframe loading="lazy" width="300" height="600" id="_fs-ad-1800501eb659b3f88" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" data-mce-fragment="1"></iframe></div>
+<div class="__fs-ancillary">
+<div class="__fs-branding"><a href="https://ads.freestar.com/?utm_campaign=branding&amp;utm_medium=display&amp;utm_source=lipsum.com&amp;utm_content=lipsumcom_left_siderail" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="https://a.pub.network/core/imgs/fslogo-green.svg" alt="freestar" width="14" height="14" data-is-external-image="true"></a></div>
+<div class="fs-branding-spacer"> </div>
+</div>
+</div>
+</div>
+</div>
+<div id="bannerR">
+<div id="lipsumcom_right_siderail" align="center" data-freestar-ad="__300x600" data-google-query-id="CIKPgJmgmY4DFRRK3QIdB-4ZQw">
+<div id="_fs-ad-iframe-container"><div class="post__iframe"><iframe loading="lazy" width="300" height="600" id="_fs-ad-181424929bd4c8358" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" data-mce-fragment="1"></iframe></div>
+<div class="__fs-ancillary">
+<div class="__fs-branding"><a href="https://ads.freestar.com/?utm_campaign=branding&amp;utm_medium=display&amp;utm_source=lipsum.com&amp;utm_content=lipsumcom_right_siderail" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="https://a.pub.network/core/imgs/fslogo-green.svg" alt="freestar" width="14" height="14" data-is-external-image="true"></a></div>
+<div class="fs-branding-spacer"> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="boxed">
+<div id="lipsum">
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pharetra turpis quis convallis blandit. Duis mattis lectus ac enim ullamcorper, quis elementum mauris vestibulum. Nam ac cursus orci. Ut eu gravida purus, vitae finibus leo. Donec nisi dui, efficitur ac nisi tempus, maximus scelerisque purus. Ut tristique ipsum quis lacinia fermentum. Cras odio justo, elementum sit amet quam ut, finibus commodo felis. Sed tincidunt metus in augue accumsan, in consectetur turpis eleifend. Aliquam erat volutpat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Phasellus porta est in tellus fringilla, non tincidunt lorem sollicitudin. Morbi gravida ante sit amet efficitur hendrerit. Proin mollis et tellus sed gravida.</p>
+<p>Mauris sodales consequat erat, quis tincidunt ipsum aliquam a. Aenean malesuada tristique neque, in consequat risus scelerisque non. Cras libero turpis, tincidunt sodales diam pharetra, sagittis feugiat orci. Phasellus blandit velit eget tempor bibendum. Mauris eu tortor auctor, viverra arcu ac, consectetur lorem. Duis pharetra pulvinar tincidunt. Vivamus lobortis vel sem ut consectetur. Nullam vitae tincidunt mi. Suspendisse potenti.</p>
+<p>Vivamus nibh nulla, auctor quis nisl eget, elementum venenatis magna. Nam odio nisl, posuere in convallis sed, gravida quis felis. Donec auctor facilisis commodo. Pellentesque sodales dolor vel enim placerat facilisis eu non sem. Mauris ac convallis massa, vel pellentesque mauris. Nullam bibendum massa posuere velit maximus tincidunt. Etiam eget sem libero.</p>
+<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce vel ornare ligula. Vivamus et elementum velit, sed interdum dui. Sed interdum odio sed pellentesque condimentum. Nulla maximus eros a venenatis sollicitudin. Proin feugiat justo nec nisi feugiat semper. Fusce ultrices augue risus, quis pulvinar urna ornare non. Vivamus ac fermentum arcu. Aenean interdum vehicula nisl, nec tempor quam volutpat in. Sed placerat pulvinar dui non vestibulum. Vestibulum varius augue vel lectus rhoncus, mattis ultrices diam luctus. Donec consequat, justo non semper maximus, tellus neque sollicitudin nibh, id semper eros turpis tempor dui.</p>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
 </feed>
